@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-14T22:32:08 IST" name="Suite" finished-at="2022-08-14T22:33:21 IST" duration-ms="73164">
+    <groups>
+    </groups>
+    <test started-at="2022-08-14T22:32:08 IST" name="Test" finished-at="2022-08-14T22:33:21 IST" duration-ms="73164">
+      <class name="main.ExecutionClass">
+        <test-method is-config="true" signature="BrowserLaunch(java.lang.String)[pri:0, instance:main.ExecutionClass@1df8b5b8]" started-at="2022-08-14T22:32:08 IST" name="BrowserLaunch" finished-at="2022-08-14T22:32:11 IST" duration-ms="3273" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method is-config="true" signature="startReport()[pri:0, instance:main.ExecutionClass@1df8b5b8]" started-at="2022-08-14T22:32:11 IST" name="startReport" finished-at="2022-08-14T22:32:11 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method signature="TS_AOC_001()[pri:0, instance:main.ExecutionClass@1df8b5b8]" started-at="2022-08-14T22:32:11 IST" name="TS_AOC_001" finished-at="2022-08-14T22:32:18 IST" duration-ms="6843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS_AOC_001 -->
+        <test-method signature="TS_AOC_002()[pri:0, instance:main.ExecutionClass@1df8b5b8]" started-at="2022-08-14T22:32:18 IST" name="TS_AOC_002" finished-at="2022-08-14T22:32:34 IST" duration-ms="15296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS_AOC_002 -->
+        <test-method signature="TS_AOC_003()[pri:0, instance:main.ExecutionClass@1df8b5b8]" started-at="2022-08-14T22:32:34 IST" name="TS_AOC_003" finished-at="2022-08-14T22:32:52 IST" duration-ms="18894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS_AOC_003 -->
+        <test-method signature="TS_AOC_004()[pri:0, instance:main.ExecutionClass@1df8b5b8]" started-at="2022-08-14T22:32:52 IST" name="TS_AOC_004" finished-at="2022-08-14T22:33:15 IST" duration-ms="22440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS_AOC_004 -->
+        <test-method is-config="true" signature="DriverQuit()[pri:0, instance:main.ExecutionClass@1df8b5b8]" started-at="2022-08-14T22:33:15 IST" name="DriverQuit" finished-at="2022-08-14T22:33:20 IST" duration-ms="5565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverQuit -->
+        <test-method is-config="true" signature="stopReport()[pri:0, instance:main.ExecutionClass@1df8b5b8]" started-at="2022-08-14T22:33:20 IST" name="stopReport" finished-at="2022-08-14T22:33:21 IST" duration-ms="547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopReport -->
+      </class> <!-- main.ExecutionClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
